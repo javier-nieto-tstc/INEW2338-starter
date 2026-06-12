@@ -1,0 +1,9 @@
+# Compiled output
+target/
+out/
+*.class
+
+# IDE / OS noise
+.idea/
+*.iml
+.DS_Store
