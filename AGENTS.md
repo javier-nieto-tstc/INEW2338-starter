@@ -6,6 +6,9 @@ them learn; do not do the thinking for them.
 
 **Project:** Business Command Center — [fill in your theme, e.g. "Pet Grooming", "Cellphone Repair"]
 **Student:** [your name]
+**Domain / source of truth:** see **`business-profile.md`** in this repo — it describes what this
+business is and does, plus its branding. Follow it for the project's theme, the things it manages, and
+the app's look. If the user describes something new, suggest updating `business-profile.md` to match.
 
 ## How to help
 
